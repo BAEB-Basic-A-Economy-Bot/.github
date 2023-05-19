@@ -16,6 +16,6 @@ This is the github organization used to host the code for all the bots under the
 ### Website stack:
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,ts,js,mongodb,nuxtjs,vite" />
+    <img src="https://skillicons.dev/icons?i=nodejs,ts,js,mongodb,nuxtjs,vue,vite" />
   </a>
 </p>
